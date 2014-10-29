@@ -3,8 +3,8 @@
 color-machine is experimental web service that receives URL to image and generates responding CSS with
 foreground and background colors that just work well together and are readable. **work in progress**
 
-![doc/01.png]
-![doc/02.png]
+![doc/01.png](doc/01.png)
+![doc/02.png](doc/02.png)
 
 
 - [Oto Brglez](https://github.com/otobrglez)
