@@ -1,0 +1,6 @@
+require 'bundler/setup'
+require 'sinatra'
+require 'sinatra/reloader'
+require 'color'
+require 'color/palette/monocontrast'
+require './lib/colors_from_image'
